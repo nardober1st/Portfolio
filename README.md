@@ -14,8 +14,8 @@ Bernardo's Android Portfolio is an app that I have developed to showcase all the
     * CardView
     * RelativeLayout
 - UI Components
-    -ImageView
-    -TextView
+- ImageView
+- TextView
 * FindViewById to get UI Components
 * RecyclerView Adapter
 
